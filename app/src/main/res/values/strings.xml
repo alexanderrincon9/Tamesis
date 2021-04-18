@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Tamesis</string>
+
+
+    <string name="descripciongastronomia">Nuestros mejores restaurantes donde podras encontrar toda nuestra variedad gastronomica.</string>
+    <string name="descripcionaventura">Lugares magicos donde podras disfrutar los mejores paisajes llenos de aventuras extremas.</string>
+    <string name="descripcionhospedaje">Nuestro mejores citios para el descanso lleno de confort.</string>
+    <string name="descripcioncultura">Lugares magicos donde podras conocer de nuestra cultura ancentral.</string>
+
+    <string name="nombrerestaurante">Las Delicias del Balcon</string>
+    <string name="descripcionrestaurante">Nuestros platos son los mas representativos de la region teniendo la "Trucha al ajillo" como nuestro plato principal.</string>
+
+    <string name="nombreaventura">Rappel y Escalada</string>
+    <string name="descripciorapelescalada">Poner a prueba tu valor al enfrentarse a las alturas en una zona escarpada de origen volcánico,disfrutar del hermoso paisaje compuesto por la imponente montaña, el valle del río Cartama.</string>
+
+    <string name="nombrehotel">Monte Mágico</string>
+    <string name="descripcionhotel">Es un lugar para desconectarse completamente de la ciudad, se respira aire puro, la vista es hermosa y la atención del personal es excelente.</string>
+
+    <string name="nombrecultura">Petroglifos</string>
+    <string name="descripcionpetro">Son cerca de 120 rocas talladas hace más de 1.000 años por las comunidades indígenas Quimbaya y Cartama. Cada una de las inscripciones representa el testimonio de la historia y la cosmogonía que rodeaba su cultura.</string>
+
+
+
+
+</resources>
