@@ -21,6 +21,7 @@ public class Splash extends AppCompatActivity {
         cancion=MediaPlayer.create(this,R.raw.audiotamesis);
         cancion.start();
 
+
         TimerTask inicio = new TimerTask() {
             @Override
             public void run() {

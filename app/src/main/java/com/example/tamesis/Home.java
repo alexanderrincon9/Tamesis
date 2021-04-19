@@ -33,29 +33,54 @@ public class Home extends AppCompatActivity {
         listaDeDatos.add(new Turismo(
                 "GASTRONOMIA",
                 getString(R.string.descripciongastronomia),
-                R.drawable.imggastronomia
-
-
-
+                getString(R.string.descripcionrestaurante),
+                getString(R.string.nombrerestaurante),
+                getString(R.string.ubicacionrestaurante),
+                getString(R.string.nombrerestaurante1),
+                getString(R.string.descripcionrestaurante1),
+                getString(R.string.ubicacionrestaurante1),
+                R.drawable.imggastromain,
+                R.drawable.imgrestauranteeeee,
+                R.drawable.imgrestaurante1
         ));
         listaDeDatos.add(new Turismo(
                 "AVENTURA",
                 getString(R.string.descripcionaventura),
-                R.drawable.imgaventura
-
-
+                getString(R.string.descripciorapelescalada),
+                getString(R.string.nombreaventura),
+                getString(R.string.ubicacionaventura),
+                getString(R.string.nombreaventura1),
+                getString(R.string.descripcioorganal),
+                getString(R.string.ubicacioaventura1),
+                R.drawable.imgaventura,
+                R.drawable.imgaventuramain,
+                R.drawable.imgaventura1
         ));
         listaDeDatos.add(new Turismo(
                 "HOSPEDAJE",
                 getString(R.string.descripcionhospedaje),
-                R.drawable.imghospedaje
-
-
+                getString(R.string.descripcionhospedaje1),
+                getString(R.string.nombrehospedaje),
+                getString(R.string.ubicacionhospedaje),
+                getString(R.string.nombrehospedaje1),
+                getString(R.string.descripcionhospedaje2),
+                getString(R.string.ubicacionhospedaje1),
+                R.drawable.imghospedaje,
+                R.drawable.imghospedajemain,
+                R.drawable.imghospedaje1
         ));
         listaDeDatos.add(new Turismo(
                 "CULTURA",
                 getString(R.string.descripcioncultura),
-                R.drawable.imgcultura
+                getString(R.string.descripcionpetrogrifos),
+                getString(R.string.nombrecultura),
+                getString(R.string.ubicacioncultura),
+                getString(R.string.nombrecultura1),
+                getString(R.string.descripcionpcasacultura),
+                getString(R.string.ubicacioncultura1),
+                R.drawable.imgcultura,
+                R.drawable.imgculturamain,
+                R.drawable.imgcultura1
 
 
         ));

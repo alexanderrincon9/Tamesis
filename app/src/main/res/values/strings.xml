@@ -7,17 +7,39 @@
     <string name="descripcionhospedaje">Nuestro mejores citios para el descanso lleno de confort.</string>
     <string name="descripcioncultura">Lugares magicos donde podras conocer de nuestra cultura ancentral.</string>
 
-    <string name="nombrerestaurante">Las Delicias del Balcon</string>
-    <string name="descripcionrestaurante">Nuestros platos son los mas representativos de la region teniendo la "Trucha al ajillo" como nuestro plato principal.</string>
+    <string name="nombrerestaurante">Charco Azul Bar Restaurante</string>
+    <string name="nombrerestaurante1">La Parcelita Restaurante</string>
 
-    <string name="nombreaventura">Rappel y Escalada</string>
+    <string name="descripcionrestaurante">Un acogedor lugar. Excelente oferta gastronómica y de precios accesibles. Muy limpio. Excelente atención y excelente música de compañía. donde volveras por su música, la calidad de los alimentos y la muy amable atención</string>
+    <string name="descripcionrestaurante1">Prueba una generosa trucha. Su divino servicio te hará sentirte especial. Tal y como sus visitantes afirman, aquí el ambiente es encantador donde puedes realizar pesca deportiva.</string>
+
+    <string name="ubicacionrestaurante">Dirección: Tamesis - Palermo, Támesis, Antioquia.</string>
+    <string name="ubicacionrestaurante1">Dirección: BARRIO LA UNION (65,76 km)Támesis.</string>
+    <string name="ubicacionaventura">Dirección: Cascada de La Peinada, Támesis, Antioquia.</string>
+    <string name="ubicacioaventura1">Dirección: Rio San Antonio, Támesis, Antioquia.</string>
+    <string name="ubicacionhospedaje">Dirección: 056028, Támesis, Antioquia.</string>
+    <string name="ubicacionhospedaje1">Direccion: Vereda El Encanto VIa Tamesis - Medellin 1.5 Támesis, Antioquia.</string>
+    <string name="ubicacioncultura">Dirección: Vereda el Rayo, Támesis, Antioquia.</string>
+    <string name="ubicacioncultura1">Dirección: Carrera 11 N° 12 - 68 Támesis, Antioquia.</string>
+
+    <string name="nombreaventura">Torrentismo</string>
+    <string name="nombreaventura1">Exploracion Organal</string>
+
     <string name="descripciorapelescalada">Poner a prueba tu valor al enfrentarse a las alturas en una zona escarpada de origen volcánico,disfrutar del hermoso paisaje compuesto por la imponente montaña, el valle del río Cartama.</string>
+    <string name="descripcioorganal">Támesis esconde un tesoro que pocos conocen: el organal del Río San Antonio, la formación de este tipo más grande del país</string>
 
-    <string name="nombrehotel">Monte Mágico</string>
-    <string name="descripcionhotel">Es un lugar para desconectarse completamente de la ciudad, se respira aire puro, la vista es hermosa y la atención del personal es excelente.</string>
 
-    <string name="nombrecultura">Petroglifos</string>
-    <string name="descripcionpetro">Son cerca de 120 rocas talladas hace más de 1.000 años por las comunidades indígenas Quimbaya y Cartama. Cada una de las inscripciones representa el testimonio de la historia y la cosmogonía que rodeaba su cultura.</string>
+    <string name="nombrehospedaje">Monte Mágico</string>
+    <string name="nombrehospedaje1">Cetro Hotel Boutique</string>
+
+    <string name="descripcionhospedaje1">Es un lugar para desconectarse completamente de la ciudad, se respira aire puro, la vista es hermosa y la atención del personal es excelente.</string>
+    <string name="descripcionhospedaje2">Además de aportar la combinación ideal de calidad, comodidad y ubicación, ofrece un ambiente boutique con una amplia variedad de servicios diseñados para viajeros como tú..</string>
+
+    <string name="nombrecultura">Petrogrifos</string>
+    <string name="nombrecultura1">Casa De La Cultura</string>
+
+    <string name="descripcionpetrogrifos">Rocas talladas hace más de 1.000 años por las comunidades indígenas Quimbaya y Cartama. Cada una de las inscripciones representa el testimonio de la historia y la cosmogonía que rodeaba su cultura.</string>
+    <string name="descripcionpcasacultura">Es otro de los principales atractivos de Támesis, y además sede del Museo de Arte Ecuménico en el que se exhibe una colección de 100 pinturas al óleo.</string>
 
 
 
